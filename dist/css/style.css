@@ -1543,7 +1543,8 @@ main {
 	}
 	.footer-brand,
 	.footer-copyright {
-		justify-content: flex-start;
+		justify-content: center;
+		align-items: center;
 	}
 	.footer-links,
 	.footer-social-links {
